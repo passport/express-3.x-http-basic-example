@@ -1,0 +1,27 @@
+{
+  "name": "express-3.x-http-basic-example",
+  "version": "0.0.0",
+  "description": "Express 3.x app using Passport for authentication via HTTP Basic scheme.",
+  "keywords": [
+    "example",
+    "express",
+    "passport"
+  ],
+  "author": "Jared Hanson",
+  "license": "Unlicense",
+  "homepage": "https://github.com/passport/express-3.x-http-basic-example",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/passport/express-3.x-http-basic-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/passport/express-3.x-http-basic-example/issues"
+  },
+  "dependencies": {
+    "connect-ensure-login": "^0.1.1",
+    "ejs": "^2.3.3",
+    "express": "^3.21.1",
+    "passport": "^0.2.2",
+    "passport-http": "^0.2.2"
+  }
+}
