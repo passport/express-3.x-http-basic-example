@@ -18,8 +18,6 @@
     "url": "https://github.com/passport/express-3.x-http-basic-example/issues"
   },
   "dependencies": {
-    "connect-ensure-login": "^0.1.1",
-    "ejs": "^2.3.3",
     "express": "^3.21.1",
     "passport": "^0.2.2",
     "passport-http": "^0.3.0"
